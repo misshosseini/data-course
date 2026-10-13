@@ -82,11 +82,21 @@
     ]
   },
   {
-  "name": "مهسا حسینی",
-  "linkedin": "https://www.linkedin.com/in/mahsahossseini/",
-  "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQG4a7oN4U0mMg/profile-displayphoto-crop_800_800/B4EZ8tLdwPHAAM-/0/1783169411890?e=1793232000&v=beta&t=vEetfQhIufisL3mtjAea2SCCGUNUWUcrvpI5t8kg1ZM",
-  "education": [
-    "کارشناسی مهندسی نرم افزار، دانشگاه علم و فرهنگ"
+    "name": "Mojgan Ghasemi",
+    "linkedin": "https://www.linkedin.com/in/mojgan-ghassemi/",
+    "education": [
+      "کارشناسی مهندسی فناوری اطلاعات"
+    ],
+    "experience": [
+      "BI Developer"
+    ]
+  },
+  {
+    "name": "مهسا حسینی",
+    "linkedin": "https://www.linkedin.com/in/mahsahossseini/",
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQG4a7oN4U0mMg/profile-displayphoto-crop_800_800/B4EZ8tLdwPHAAM-/0/1783169411890?e=1793232000&v=beta&t=vEetfQhIufisL3mtjAea2SCCGUNUWUcrvpI5t8kg1ZM",
+    "education": [
+      "کارشناسی مهندسی نرم افزار، دانشگاه علم و فرهنگ"
     ]
   }
 ]
